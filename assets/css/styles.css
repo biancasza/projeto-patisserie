@@ -1,0 +1,43 @@
+
+body {
+    font-family: "Inconsolata", monospace;
+    color: #0d1e2d;
+    
+  }
+
+#cards {
+    h3, p, a{
+    font-family: 'Courier New', ;
+    margin: 60px;
+    color: #faee4a;
+    text-shadow: 2px 2px 2px rgb(33, 35, 46);
+    font-size: 30px;
+    text-decoration: none;
+    }
+  }
+
+#cards {
+    padding: 60px;
+  }
+
+#cards img{
+    opacity: 70%;
+}
+
+#about {
+    margin: 100px; 
+    h2{
+        font-size: 50px;
+    } 
+    p{
+        margin: 10%;
+    }
+  }
+
+
+#contact{
+    padding: 130px;
+    form{
+        padding: 50px;
+    }
+}
